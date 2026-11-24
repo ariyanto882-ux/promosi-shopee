@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Promo Produk Shopee</title>
+
+<meta property="og:title" content="Promo Produk Shopee">
+<meta property="og:description" content="Lihat produk menarik di Shopee">
+<meta property="og:type" content="website">
+
+<meta property="og:image"
+content="https://github.com/ariyanto882-ux/promosi-shopee/raw/refs/heads/main/produk.jpg">
+
+</head>
+
+<body>
+<p>Menuju produk Shopee...</p>
+
+<script>
+window.location.replace(
+"https://shopee.co.id/https://s.shopee.co.id/6AmpZhvwio"
+);
+</script>
+
+</body>
+</html>
